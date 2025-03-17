@@ -29,7 +29,8 @@ p {
     background-color:rgb(252, 247, 234);
     border-radius: 10px;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    margin: auto;
 }
 
 .skillTable {
