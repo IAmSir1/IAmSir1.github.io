@@ -4,6 +4,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     place-items: center;
+    height: auto;
 }
 
 p {
@@ -54,3 +55,10 @@ th, td {
     font-family: 'Geneva';
     font-size:small;
 }
+
+img {
+    width: 20%;
+    margin: auto;
+    display: block;
+    height: auto;
+} 
