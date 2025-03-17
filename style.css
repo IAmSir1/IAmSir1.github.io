@@ -1,3 +1,10 @@
+.baki {
+    width: 20%;
+    margin: 0 auto;
+    display: block;
+    height: auto;
+} 
+
 body {
     background-image: url('flowers.jpg');
     background-size: cover;
@@ -55,10 +62,3 @@ th, td {
     font-family: 'Geneva';
     font-size:small;
 }
-
-img {
-    width: 20%;
-    margin: auto;
-    display: block;
-    height: auto;
-} 
