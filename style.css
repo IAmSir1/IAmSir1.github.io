@@ -55,3 +55,29 @@ th, td {
     font-family: 'Geneva';
     font-size:small;
 }
+
+.carousel-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+    padding: 0; 
+    font-size: 2rem;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: transparent; /* Asegúrate de que el fondo sea transparente */
+    filter: invert(38%) sepia(94%) saturate(7464%) hue-rotate(180deg) brightness(89%) contrast(103%);
+}
+
+.carousel-item img {
+    width: auto;
+    max-width: 25%;
+    height: auto;
+    object-fit: contain;
+  }
