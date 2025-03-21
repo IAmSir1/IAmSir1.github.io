@@ -19,17 +19,10 @@ p {
     font-size:small;
 }
 
-.name {
+.titles {
     font-family:'Trebuchet MS';
     text-align: center;
     color: rgb(110, 134, 87);
-}
-
-.titles {
-    font-family: 'Arial Narrow';
-    text-align: center;
-    color: rgb(110, 134, 87);
-    font-size:x-large;
 }
 
 .box {
